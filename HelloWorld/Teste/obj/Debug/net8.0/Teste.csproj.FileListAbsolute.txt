@@ -1,0 +1,14 @@
+/root/HelloWorld/Teste/bin/Debug/net8.0/Teste
+/root/HelloWorld/Teste/bin/Debug/net8.0/Teste.deps.json
+/root/HelloWorld/Teste/bin/Debug/net8.0/Teste.runtimeconfig.json
+/root/HelloWorld/Teste/bin/Debug/net8.0/Teste.dll
+/root/HelloWorld/Teste/bin/Debug/net8.0/Teste.pdb
+/root/HelloWorld/Teste/obj/Debug/net8.0/Teste.GeneratedMSBuildEditorConfig.editorconfig
+/root/HelloWorld/Teste/obj/Debug/net8.0/Teste.AssemblyInfoInputs.cache
+/root/HelloWorld/Teste/obj/Debug/net8.0/Teste.AssemblyInfo.cs
+/root/HelloWorld/Teste/obj/Debug/net8.0/Teste.csproj.CoreCompileInputs.cache
+/root/HelloWorld/Teste/obj/Debug/net8.0/Teste.dll
+/root/HelloWorld/Teste/obj/Debug/net8.0/refint/Teste.dll
+/root/HelloWorld/Teste/obj/Debug/net8.0/Teste.pdb
+/root/HelloWorld/Teste/obj/Debug/net8.0/Teste.genruntimeconfig.cache
+/root/HelloWorld/Teste/obj/Debug/net8.0/ref/Teste.dll

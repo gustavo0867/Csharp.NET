@@ -1,0 +1,15 @@
+/root/Csharp.NET/Aulas/bin/Debug/net8.0/Aulas
+/root/Csharp.NET/Aulas/bin/Debug/net8.0/Aulas.deps.json
+/root/Csharp.NET/Aulas/bin/Debug/net8.0/Aulas.runtimeconfig.json
+/root/Csharp.NET/Aulas/bin/Debug/net8.0/Aulas.dll
+/root/Csharp.NET/Aulas/bin/Debug/net8.0/Aulas.pdb
+/root/Csharp.NET/Aulas/obj/Debug/net8.0/Aulas.GeneratedMSBuildEditorConfig.editorconfig
+/root/Csharp.NET/Aulas/obj/Debug/net8.0/Aulas.AssemblyInfoInputs.cache
+/root/Csharp.NET/Aulas/obj/Debug/net8.0/Aulas.AssemblyInfo.cs
+/root/Csharp.NET/Aulas/obj/Debug/net8.0/Aulas.csproj.CoreCompileInputs.cache
+/root/Csharp.NET/Aulas/obj/Debug/net8.0/Aulas.sourcelink.json
+/root/Csharp.NET/Aulas/obj/Debug/net8.0/Aulas.dll
+/root/Csharp.NET/Aulas/obj/Debug/net8.0/refint/Aulas.dll
+/root/Csharp.NET/Aulas/obj/Debug/net8.0/Aulas.pdb
+/root/Csharp.NET/Aulas/obj/Debug/net8.0/Aulas.genruntimeconfig.cache
+/root/Csharp.NET/Aulas/obj/Debug/net8.0/ref/Aulas.dll

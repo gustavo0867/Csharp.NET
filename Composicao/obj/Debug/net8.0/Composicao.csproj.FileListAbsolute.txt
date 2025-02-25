@@ -1,0 +1,15 @@
+/root/Csharp.NET/Composicao/obj/Debug/net8.0/Composicao.GeneratedMSBuildEditorConfig.editorconfig
+/root/Csharp.NET/Composicao/obj/Debug/net8.0/Composicao.AssemblyInfoInputs.cache
+/root/Csharp.NET/Composicao/obj/Debug/net8.0/Composicao.AssemblyInfo.cs
+/root/Csharp.NET/Composicao/obj/Debug/net8.0/Composicao.csproj.CoreCompileInputs.cache
+/root/Csharp.NET/Composicao/obj/Debug/net8.0/Composicao.sourcelink.json
+/root/Csharp.NET/Composicao/bin/Debug/net8.0/Composicao
+/root/Csharp.NET/Composicao/bin/Debug/net8.0/Composicao.deps.json
+/root/Csharp.NET/Composicao/bin/Debug/net8.0/Composicao.runtimeconfig.json
+/root/Csharp.NET/Composicao/bin/Debug/net8.0/Composicao.dll
+/root/Csharp.NET/Composicao/bin/Debug/net8.0/Composicao.pdb
+/root/Csharp.NET/Composicao/obj/Debug/net8.0/Composicao.dll
+/root/Csharp.NET/Composicao/obj/Debug/net8.0/refint/Composicao.dll
+/root/Csharp.NET/Composicao/obj/Debug/net8.0/Composicao.pdb
+/root/Csharp.NET/Composicao/obj/Debug/net8.0/Composicao.genruntimeconfig.cache
+/root/Csharp.NET/Composicao/obj/Debug/net8.0/ref/Composicao.dll

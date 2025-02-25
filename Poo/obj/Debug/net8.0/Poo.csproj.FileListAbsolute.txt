@@ -1,0 +1,15 @@
+/root/Csharp.NET/Poo/obj/Debug/net8.0/Poo.GeneratedMSBuildEditorConfig.editorconfig
+/root/Csharp.NET/Poo/obj/Debug/net8.0/Poo.AssemblyInfoInputs.cache
+/root/Csharp.NET/Poo/obj/Debug/net8.0/Poo.AssemblyInfo.cs
+/root/Csharp.NET/Poo/obj/Debug/net8.0/Poo.csproj.CoreCompileInputs.cache
+/root/Csharp.NET/Poo/obj/Debug/net8.0/Poo.sourcelink.json
+/root/Csharp.NET/Poo/bin/Debug/net8.0/Poo
+/root/Csharp.NET/Poo/bin/Debug/net8.0/Poo.deps.json
+/root/Csharp.NET/Poo/bin/Debug/net8.0/Poo.runtimeconfig.json
+/root/Csharp.NET/Poo/bin/Debug/net8.0/Poo.dll
+/root/Csharp.NET/Poo/bin/Debug/net8.0/Poo.pdb
+/root/Csharp.NET/Poo/obj/Debug/net8.0/Poo.dll
+/root/Csharp.NET/Poo/obj/Debug/net8.0/refint/Poo.dll
+/root/Csharp.NET/Poo/obj/Debug/net8.0/Poo.pdb
+/root/Csharp.NET/Poo/obj/Debug/net8.0/Poo.genruntimeconfig.cache
+/root/Csharp.NET/Poo/obj/Debug/net8.0/ref/Poo.dll

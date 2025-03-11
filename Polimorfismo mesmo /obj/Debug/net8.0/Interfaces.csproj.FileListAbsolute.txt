@@ -1,0 +1,30 @@
+/root/Csharp.NET/Interfaces/obj/Debug/net8.0/Interfaces.GeneratedMSBuildEditorConfig.editorconfig
+/root/Csharp.NET/Interfaces/obj/Debug/net8.0/Interfaces.AssemblyInfoInputs.cache
+/root/Csharp.NET/Interfaces/obj/Debug/net8.0/Interfaces.AssemblyInfo.cs
+/root/Csharp.NET/Interfaces/obj/Debug/net8.0/Interfaces.csproj.CoreCompileInputs.cache
+/root/Csharp.NET/Interfaces/obj/Debug/net8.0/Interfaces.sourcelink.json
+/root/Csharp.NET/Interfaces/bin/Debug/net8.0/Interfaces
+/root/Csharp.NET/Interfaces/bin/Debug/net8.0/Interfaces.deps.json
+/root/Csharp.NET/Interfaces/bin/Debug/net8.0/Interfaces.runtimeconfig.json
+/root/Csharp.NET/Interfaces/bin/Debug/net8.0/Interfaces.dll
+/root/Csharp.NET/Interfaces/bin/Debug/net8.0/Interfaces.pdb
+/root/Csharp.NET/Interfaces/obj/Debug/net8.0/Interfaces.dll
+/root/Csharp.NET/Interfaces/obj/Debug/net8.0/refint/Interfaces.dll
+/root/Csharp.NET/Interfaces/obj/Debug/net8.0/Interfaces.pdb
+/root/Csharp.NET/Interfaces/obj/Debug/net8.0/Interfaces.genruntimeconfig.cache
+/root/Csharp.NET/Interfaces/obj/Debug/net8.0/ref/Interfaces.dll
+/root/Csharp.NET/Polimorfismo mesmo /obj/Debug/net8.0/Interfaces.GeneratedMSBuildEditorConfig.editorconfig
+/root/Csharp.NET/Polimorfismo mesmo /obj/Debug/net8.0/Interfaces.AssemblyInfoInputs.cache
+/root/Csharp.NET/Polimorfismo mesmo /obj/Debug/net8.0/Interfaces.AssemblyInfo.cs
+/root/Csharp.NET/Polimorfismo mesmo /obj/Debug/net8.0/Interfaces.csproj.CoreCompileInputs.cache
+/root/Csharp.NET/Polimorfismo mesmo /obj/Debug/net8.0/Interfaces.sourcelink.json
+/root/Csharp.NET/Polimorfismo mesmo /obj/Debug/net8.0/Interfaces.dll
+/root/Csharp.NET/Polimorfismo mesmo /obj/Debug/net8.0/refint/Interfaces.dll
+/root/Csharp.NET/Polimorfismo mesmo /obj/Debug/net8.0/Interfaces.pdb
+/root/Csharp.NET/Polimorfismo mesmo /bin/Debug/net8.0/Interfaces
+/root/Csharp.NET/Polimorfismo mesmo /bin/Debug/net8.0/Interfaces.deps.json
+/root/Csharp.NET/Polimorfismo mesmo /bin/Debug/net8.0/Interfaces.runtimeconfig.json
+/root/Csharp.NET/Polimorfismo mesmo /bin/Debug/net8.0/Interfaces.dll
+/root/Csharp.NET/Polimorfismo mesmo /bin/Debug/net8.0/Interfaces.pdb
+/root/Csharp.NET/Polimorfismo mesmo /obj/Debug/net8.0/Interfaces.genruntimeconfig.cache
+/root/Csharp.NET/Polimorfismo mesmo /obj/Debug/net8.0/ref/Interfaces.dll

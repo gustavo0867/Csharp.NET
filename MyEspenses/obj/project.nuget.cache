@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "J3u2DQiFa1gxX5gFbHmfxh5hbmJg158/sfLgI9T7+2jqGp4vb6hBNmUxDS/I5pXoKBY7pssm6hqJi/mfTpaPcA==",
+  "dgSpecHash": "DOkrBWi4rik=",
   "success": true,
-  "projectFilePath": "/root/Csharp.NET/MyEspenses/MyEspenses.csproj",
+  "projectFilePath": "\\\\wsl.localhost\\Ubuntu\\home\\guzera\\Csharp.NET\\MyEspenses\\MyEspenses.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

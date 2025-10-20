@@ -52,7 +52,7 @@ class URI {
 
 
 
-int[]  teste = new int[5]
+int[] teste = new int[5];
 
 
 

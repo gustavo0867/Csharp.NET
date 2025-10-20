@@ -1,4 +1,4 @@
-﻿public static void CheckAge(int Age)
+﻿void CheckAge(int Age)
 {
    if (Age < 18) throw new AccessViolationException("Pessoa menor de idade");
 

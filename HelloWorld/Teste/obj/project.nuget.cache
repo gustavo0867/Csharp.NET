@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "36hiIVJBUhJctI1MtrFVJkfhtNg/wEDXuJJSyPtqB5u0wxJNGwe78DtRiiEKqeHCwySYkxS3vo0ixEL8/B51mw==",
+  "dgSpecHash": "Png7cLh8mF4=",
   "success": true,
-  "projectFilePath": "/root/HelloWorld/Teste/Teste.csproj",
+  "projectFilePath": "\\\\wsl.localhost\\Ubuntu\\home\\guzera\\Csharp.NET\\HelloWorld\\Teste\\Teste.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

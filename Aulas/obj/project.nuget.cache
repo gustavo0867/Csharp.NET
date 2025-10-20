@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "b52T4flG7i1bPP+GoGwUe9VGwAJ5PNk6DPeDwIL/b3F42SNyg/lZ9vgJNDSdqbfiWkSJm/BOpKYkPrzYVEKNnA==",
+  "dgSpecHash": "8O+iK68Wsnw=",
   "success": true,
-  "projectFilePath": "/root/Csharp.NET/Aulas/Aulas.csproj",
+  "projectFilePath": "\\\\wsl.localhost\\Ubuntu\\home\\guzera\\Csharp.NET\\Aulas\\Aulas.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

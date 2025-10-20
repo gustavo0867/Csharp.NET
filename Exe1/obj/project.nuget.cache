@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "VdsNEjVlofSkAUhtRDWzRmfAavD5Iv5PeRPCZgtSRfymquR8uapZzq/tQ+Sf6WhCDu4oJOqKulFCOkc1QryZbA==",
+  "dgSpecHash": "BIIjEvRex/k=",
   "success": true,
-  "projectFilePath": "/root/Csharp.NET/Exe1/Exe1.csproj",
+  "projectFilePath": "\\\\wsl.localhost\\Ubuntu\\home\\guzera\\Csharp.NET\\Exe1\\Exe1.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

@@ -1,0 +1,15 @@
+/home/guzera/Csharp.NET/Linq/obj/Debug/net8.0/Linq.GeneratedMSBuildEditorConfig.editorconfig
+/home/guzera/Csharp.NET/Linq/obj/Debug/net8.0/Linq.AssemblyInfoInputs.cache
+/home/guzera/Csharp.NET/Linq/obj/Debug/net8.0/Linq.AssemblyInfo.cs
+/home/guzera/Csharp.NET/Linq/obj/Debug/net8.0/Linq.csproj.CoreCompileInputs.cache
+/home/guzera/Csharp.NET/Linq/obj/Debug/net8.0/Linq.sourcelink.json
+/home/guzera/Csharp.NET/Linq/bin/Debug/net8.0/Linq
+/home/guzera/Csharp.NET/Linq/bin/Debug/net8.0/Linq.deps.json
+/home/guzera/Csharp.NET/Linq/bin/Debug/net8.0/Linq.runtimeconfig.json
+/home/guzera/Csharp.NET/Linq/bin/Debug/net8.0/Linq.dll
+/home/guzera/Csharp.NET/Linq/bin/Debug/net8.0/Linq.pdb
+/home/guzera/Csharp.NET/Linq/obj/Debug/net8.0/Linq.dll
+/home/guzera/Csharp.NET/Linq/obj/Debug/net8.0/refint/Linq.dll
+/home/guzera/Csharp.NET/Linq/obj/Debug/net8.0/Linq.pdb
+/home/guzera/Csharp.NET/Linq/obj/Debug/net8.0/Linq.genruntimeconfig.cache
+/home/guzera/Csharp.NET/Linq/obj/Debug/net8.0/ref/Linq.dll
